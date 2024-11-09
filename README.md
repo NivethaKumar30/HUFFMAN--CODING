@@ -30,8 +30,7 @@ Print the characters and its huffmancode
 
 ``` Python
 # Get the input String
-string = 'NIVETHA![Screenshot 2024-11-09 165759](https://github.com/user-attachments/assets/7bec8c0a-1d4c-4bc5-a3d9-fbf1bc4b6546)
-'
+string = 'NIVETHA'
 class NodeTree(object):
     def __init__(self, left=None, right=None): 
         self.left = left
